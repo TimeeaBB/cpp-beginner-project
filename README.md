@@ -1,2 +1,2 @@
-# C-project-begginer
-A begginer project that can help others with simple math 
+# C-project-beginner
+A beginner project that can help others with simple math 
